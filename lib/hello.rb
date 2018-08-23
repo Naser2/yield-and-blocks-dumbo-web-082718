@@ -1,6 +1,6 @@
 
 require 'pry'
-array = ["Tim", "Tom", "Jim"]
+# array = ["Tim", "Tom", "Jim"]
 # def hello_t(array)
 
 #   i = 0 
