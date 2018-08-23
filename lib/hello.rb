@@ -9,3 +9,4 @@ def yielding
   yield
   puts "now we are back in the method"
 end
+puts yielding
